@@ -1,4 +1,2 @@
 # mvyash-jenkinsliquibasedemo
 test
-
-test
